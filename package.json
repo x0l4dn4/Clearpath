@@ -1,0 +1,25 @@
+{
+  "name": "clearpath",
+  "version": "1.0.0",
+  "description": "Productivity desktop app made using electron framework",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x0l4dn4/Clearpath.git"
+  },
+  "keywords": [
+    "productivity"
+  ],
+  "author": "x0l4dn4",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/x0l4dn4/Clearpath/issues"
+  },
+  "homepage": "https://github.com/x0l4dn4/Clearpath#readme",
+  "devDependencies": {
+    "electron": "^42.4.0"
+  }
+}
